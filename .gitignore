@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.log
+/.openai/
+/.sites-runtime/
+/site-assets/
+/plan.md
+/BowWow_*
+*.tar
+*.tar.gz
